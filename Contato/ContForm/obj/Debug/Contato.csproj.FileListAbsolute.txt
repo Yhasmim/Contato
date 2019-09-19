@@ -1,0 +1,10 @@
+D:\ed2 atividade CAIO\ContForm-master\ContForm\bin\Debug\ContForm.exe.config
+D:\ed2 atividade CAIO\ContForm-master\ContForm\bin\Debug\ContForm.exe
+D:\ed2 atividade CAIO\ContForm-master\ContForm\bin\Debug\ContForm.pdb
+D:\ed2 atividade CAIO\ContForm-master\ContForm\obj\Debug\Contato.csprojAssemblyReference.cache
+D:\ed2 atividade CAIO\ContForm-master\ContForm\obj\Debug\ContForm.Form1.resources
+D:\ed2 atividade CAIO\ContForm-master\ContForm\obj\Debug\ContForm.Properties.Resources.resources
+D:\ed2 atividade CAIO\ContForm-master\ContForm\obj\Debug\Contato.csproj.GenerateResource.cache
+D:\ed2 atividade CAIO\ContForm-master\ContForm\obj\Debug\Contato.csproj.CoreCompileInputs.cache
+D:\ed2 atividade CAIO\ContForm-master\ContForm\obj\Debug\ContForm.exe
+D:\ed2 atividade CAIO\ContForm-master\ContForm\obj\Debug\ContForm.pdb
